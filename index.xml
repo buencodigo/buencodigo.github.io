@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>El buen código</title>
-    <link>https://buencodigo.github.io/index.xml</link>
-    <description>Recent content on El buen código</description>
+    <title>El Buen Código</title>
+    <link>https://elbuencodigo.github.io/</link>
+    <description>Recent content on El Buen Código</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="https://buencodigo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://elbuencodigo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
